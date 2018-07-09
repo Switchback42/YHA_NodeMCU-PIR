@@ -23,7 +23,7 @@ ESP8266WebServer server;
 //password must be at least 8 characters
 const char WiFiAPPSK[] = "YOUR ESP8266 PASSWORD"; //this allows you to log in to your PLC via a browser
 
-//This stuff is for your web brower 
+//This stuff is for your web browser 
 const char INDEX_HTML[] = 
   "<!DOCTYPE HTML>"
   "<html>"
